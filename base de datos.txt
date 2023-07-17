@@ -1,0 +1,3 @@
+ user: base de baseDeDatos
+ password: Cuh3QWYxxqaZx9X6
+ url: mongodb+srv://baseDeDatos:Cuh3QWYxxqaZx9X6@cluster0.kdenobu.mongodb.net/
